@@ -1,6 +1,8 @@
 # Financial Symbols to search: 
 MSFT, BRKA, AAPL, INFO, F, PLT, BIG, TWX, AME, JWN, CVS, MS, MET
 
+# Check out the app here: https://gcy2312.github.io/CodingChallenge-FinanceSymbols
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
